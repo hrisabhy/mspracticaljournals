@@ -1,5 +1,6 @@
 # First sem practical journals
 
+## I have created individual branches for each subject for easier navigation.
 
 **Subjects:**
 
